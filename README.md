@@ -14,6 +14,10 @@ The use of pdfdecrypted_v1.0.0.exe is easy:
 8. If the work has finished, the program will notice you to press any key to exit. You can now press any key on your keyboard to exit the program.
 9. Now you can find a folder named "decrypted_files" and the decrypted files are in this folder
 
-============ update pdfdecrypted_v1.0.1.exe ==========
+============ **update pdfdecrypted_v1.0.1.exe**==========
+
 provide a UI window
-users just need to click ... button to select a folder, then input the password and press "start" button.
+Users simply click the... button to select a folder containing all encrypted pdf files, then enter the password and press the "start" button.
+
+**Note**: If you have pdf files that you can open but can't edit, copy or print, this program can also help you.
+Just leave the "password" empty, then press start. The protected files will be converted to editable files by this program.  
